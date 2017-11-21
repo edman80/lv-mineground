@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/irc/command
+END
+CommandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/irc/command/CommandHandler.java
+END
+CommandExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/irc/command/CommandExecutor.java
+END

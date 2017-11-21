@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/ingamefunctions/commands/admin
+END
+ClearInventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/ingamefunctions/commands/admin/ClearInventory.java
+END
+Heal.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/ingamefunctions/commands/admin/Heal.java
+END
+Fetch.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/ingamefunctions/commands/admin/Fetch.java
+END
+God.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/ingamefunctions/commands/admin/God.java
+END
+Give.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/ingamefunctions/commands/admin/Give.java
+END

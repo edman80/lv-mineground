@@ -1,0 +1,23 @@
+log4j.rootLogger=INFO, C, R
+
+log4j.appender.C=org.apache.log4j.ConsoleAppender
+log4j.appender.C.layout=org.apache.log4j.PatternLayout
+log4j.appender.C.layout.ConversionPattern=%d %-5p [%t] %c %x - %m%n
+
+log4j.appender.R=org.apache.log4j.RollingFileAppender
+log4j.appender.R.File=plugins/LVM/logs/debug.log
+log4j.appender.R.MaxFileSize=10MB
+log4j.appender.R.MaxBackupIndex=10
+log4j.appender.R.layout=org.apache.log4j.PatternLayout
+log4j.appender.R.layout.ConversionPattern=%d %-5p [%t] %c %x - %m%n
+
+log4j.appender.Chat=org.apache.log4j.DailyRollingFileAppender
+log4j.appender.Chat.datePattern='.'yyyy-MM-dd
+log4j.appender.Chat.File=plugins/LVM/logs/chat/chat.log
+log4j.appender.Chat.layout=org.apache.log4j.PatternLayout
+log4j.appender.Chat.layout.ConversionPattern=[%d{HH:mm:ss}] %m%n
+
+log4j.category.org.mineground.modules.echo.Events=INFO, Chat
+log4j.additivity.org.mineground.modules.echo.Events=false
+log4j.category.org.mineground=DEBUG, C, R
+log4j.additivity.org.mineground=false

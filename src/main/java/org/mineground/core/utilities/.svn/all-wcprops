@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/core/utilities
+END
+Time.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/core/utilities/Time.java
+END
+Access.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/core/utilities/Access.java
+END
+IRCMessager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/core/utilities/IRCMessager.java
+END
+IngameMessager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/core/utilities/IngameMessager.java
+END
+Network.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/core/utilities/Network.java
+END
+DataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/core/utilities/DataType.java
+END

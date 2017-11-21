@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 70
+lvm.log
+.classpath
+.project
+target
+nbproject
+bin
+build
+.settings
+dist
+
+END

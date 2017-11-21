@@ -1,0 +1,5 @@
+name: LVM
+main: org.mineground.bukkit.MinegroundPlugin
+version: 1.2
+website: www.mineground.com
+author: LVM Development Team

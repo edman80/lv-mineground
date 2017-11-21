@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/ban/irccommands
+END
+Unban.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/ban/irccommands/Unban.java
+END
+IPBan.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/ban/irccommands/IPBan.java
+END
+RangeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/ban/irccommands/RangeException.java
+END
+UnbanIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/ban/irccommands/UnbanIP.java
+END
+Ban.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/301/branches/1.2/src/main/java/org/mineground/modules/ban/irccommands/Ban.java
+END
